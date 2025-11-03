@@ -14,8 +14,7 @@ nav {
   border-right: 1px solid #ccc; 
   box-sizing: border-box;
   background-color: white; 
-  margin-botton: 20px;
-
+  
 }
 
 
@@ -23,7 +22,7 @@ nav ul {
   list-style: none;
   padding-left: 0;
   margin: 0;
-  margin-botton: 20px;
+
 }
 
 
